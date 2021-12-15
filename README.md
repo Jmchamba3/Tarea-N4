@@ -21,6 +21,7 @@
 ![Red-escalera](https://user-images.githubusercontent.com/93681159/146224823-0be207bc-37ba-4ad8-b910-2a5e91afd0d5.jpeg)
 ![Red-R-2R](https://user-images.githubusercontent.com/93681159/146226663-ba26b2ed-64af-48be-a0c9-a1970d0bb2a1.jpeg)
 #### 7-6: EL PUENTE WHEATSTONE
+![Puente-wheatstone](https://user-images.githubusercontent.com/93681159/146269463-e0c10f0b-9c56-4549-b0cf-f65a5ccfe207.jpeg)
 #### 7-7:
 ## 3.EJERCICIOS
 ## 4.VIDEO
