@@ -28,13 +28,19 @@
 ![Fuente-cd](https://user-images.githubusercontent.com/93681159/146622429-22649cff-b523-4841-837b-ecc30dda29af.jpeg)
 #### 8-2: LA FUENTE DE CORRIENTE
 ![Fuente-corriente](https://user-images.githubusercontent.com/93681159/146624935-bb9965ba-7cfe-47d3-8091-6b3366671f33.jpeg)
+![Fuente-corriente2](https://user-images.githubusercontent.com/93681159/146645390-463f5caa-e9c9-4208-9920-3166e888f5a1.jpeg)
+#### 8-3: CONVERSIONES DE FUENTE
+![Voltaje-a-corriente](https://user-images.githubusercontent.com/93681159/146646648-d1861fb9-72c5-498b-a147-76a9b83ffdae.jpeg)
+![Corriente-a-voltaje](https://user-images.githubusercontent.com/93681159/146646808-34a88bb1-945a-4a0b-98c5-b96bb1b85c9b.jpeg)
+#### 8-4: EL TEOREMA DE SUPERPOSICIÓN
+![Teorema-superposición](https://user-images.githubusercontent.com/93681159/146648907-ae612d27-05fa-497c-8d1b-8f194f4ea86a.jpeg)
+* Demostración
+![Superposición](https://user-images.githubusercontent.com/93681159/146649009-fafd8059-cc34-4623-81cc-8a7e17279a7d.PNG)
+#### 8-5: TEOREMA DE THEVENIN
 
-#### 8-3:
-#### 8-4:
-#### 8-5:
-#### 8-6:
-#### 8-7:
-#### 8-8:
+#### 8-6: TEOREMA DE NORTON
+#### 8-7: TEOREMA DE TRANSFERENCIA DE POTENCIA MÁXIMA
+#### 8-8: CONVERSIONES DELTA A Y (Δ a Y) y Y A DELTA (Y a Δ)
 ## 3.EJERCICIOS
 ## 4.VIDEO
 ## 5.CONCLUSIONES
