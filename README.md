@@ -24,7 +24,17 @@
 ![Puente-wheatstone](https://user-images.githubusercontent.com/93681159/146269463-e0c10f0b-9c56-4549-b0cf-f65a5ccfe207.jpeg)
 #### 7-7: LOCALIZACIÓN DE FALLAS
 ### Capítulo N°8: TEOREMAS DE CIRCUITOS Y CONVERSIONES
+#### 8-1: LA FUENTE DE VOLTAJE DE CD
+![Fuente-cd](https://user-images.githubusercontent.com/93681159/146622429-22649cff-b523-4841-837b-ecc30dda29af.jpeg)
+#### 8-2: LA FUENTE DE CORRIENTE
+![Fuente-corriente](https://user-images.githubusercontent.com/93681159/146624935-bb9965ba-7cfe-47d3-8091-6b3366671f33.jpeg)
 
+#### 8-3:
+#### 8-4:
+#### 8-5:
+#### 8-6:
+#### 8-7:
+#### 8-8:
 ## 3.EJERCICIOS
 ## 4.VIDEO
 ## 5.CONCLUSIONES
