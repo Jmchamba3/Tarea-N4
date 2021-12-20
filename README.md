@@ -37,10 +37,13 @@
 * Demostración
 ![Superposición](https://user-images.githubusercontent.com/93681159/146649009-fafd8059-cc34-4623-81cc-8a7e17279a7d.PNG)
 #### 8-5: TEOREMA DE THEVENIN
-
+![Teorema-thevenin](https://user-images.githubusercontent.com/93681159/146795132-d7b37203-4ec8-45c4-a10c-75f045986efd.jpeg)
 #### 8-6: TEOREMA DE NORTON
+![Teorema-norton](https://user-images.githubusercontent.com/93681159/146803835-736b2ea7-e93d-4295-93be-3203a0fcf44e.jpeg)
 #### 8-7: TEOREMA DE TRANSFERENCIA DE POTENCIA MÁXIMA
+
 #### 8-8: CONVERSIONES DELTA A Y (Δ a Y) y Y A DELTA (Y a Δ)
+
 ## 3.EJERCICIOS
 ## 4.VIDEO
 ## 5.CONCLUSIONES
