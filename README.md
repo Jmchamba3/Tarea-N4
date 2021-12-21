@@ -43,7 +43,7 @@
 #### 8-7: TEOREMA DE TRANSFERENCIA DE POTENCIA MÁXIMA
 ![Transferencia-potencia -máxima](https://user-images.githubusercontent.com/93681159/146825767-3a18d714-e36b-43ca-896e-c9e93ead6ad1.jpeg)
 #### 8-8: CONVERSIONES DELTA A Y (Δ a Y) y Y A DELTA (Y a Δ)
-
+![Conversiones](https://user-images.githubusercontent.com/93681159/146854758-eb9d8f9d-2e30-4c43-b46b-8a2a33eceba2.jpeg)
 ## 3.EJERCICIOS
 ## 4.VIDEO
 ## 5.CONCLUSIONES
