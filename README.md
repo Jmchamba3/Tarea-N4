@@ -93,7 +93,31 @@
 ![image](https://user-images.githubusercontent.com/93666408/146867052-32cad9fc-ba89-4617-acdd-648d28ebab1f.png)
 
 
-#### 31.Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones:la corriente extraída de la fuente sin carga no debe exceder de 5mA;el voltaje de fuente tiene que ser de 10V, y las salidas requeridas deben ser 5 y 2.5V.Trace el circuito 
+#### 31.Determine los valores de resistencia para un divisor de voltaje que debe satisfacer las siguientes especificaciones:la corriente extraída de la fuente sin carga no debe exceder de 5mA;el voltaje de fuente tiene que ser de 10V, y las salidas requeridas deben ser 5 y 2.5V.Trace el circuito y determine el efecto en los voltajes de salida si se conecta a una carga de 1.0k ohmios a cada toma,una a la vez.
+
+### SECCIÓN 7-4 Efecto de carga de un voltímetro
+#### 35.¿En cuál de los siguientes intervalos de voltaje presentará un voltímetro la mínima carga que haya en un circuito?
+#### (a)1V   (b)10V   (c)100V  (d)1000V
+
+#### 37.El voltímetro descrito en el problema 36 se utiliza para medir voltaje entre los extremos de R4 en la figura 7-62(a).
+#### (a)¿Qué intervalo se deberá utilizar?
+#### (b) ¿En cuánto se reduce el voltaje medido por el medidor con respecto al voltaje real?
+
+### SECCIÓN 7-5 Redes en escalera
+#### Para el circuito mostrado en la figura 7-77,calcule:
+#### (a)La resistencia total entre las terminales de la fuente  (b)La corriente total suministrada por la fuente.
+#### (c)La corriente a través del resistor de 910ohmios     (d)El voltaje desde el punto A hasta el punto B.
+
+#### 41.Determine la resistencia total entre las terminales A y B de la red en escalera de la figura 7-79.Asimismo,calcule la corriente en cada rama con 10V entre A y B.
+![image](https://user-images.githubusercontent.com/93666408/146868866-03f1e027-7043-475c-9ae1-05f0a2fc13d0.png)
+
+
+#### 43.Determine IT y Vsalida en la figura 7-80.
+![image](https://user-images.githubusercontent.com/93666408/146868986-3b04ecf6-b899-4164-a144-5f23b9cfd7cf.png)
+
+### SECCIÓN 7-6 El puente de Wheatstone
+#### 47.Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 ohmios para cada medidor(un valor estándar).Cuando se agrega una carga,los medidores a tensión incrementan su resistencia en 60mohmios, a 120,060ohmios y los mediores a compresión disminuyen su resistencia en 60mohmios,a 119.940 ohmios,como se muestra en la figura 7-82.¿Cuál es el voltaje de salida con carga?
+
 
 ## 4.VIDEO
 ## 5.CONCLUSIONES
