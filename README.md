@@ -118,6 +118,17 @@
 ### SECCIÓN 7-6 El puente de Wheatstone
 #### 47.Una celda de carga tiene cuatro medidores de deformación idénticos con una resistencia ilimitada de 120,000 ohmios para cada medidor(un valor estándar).Cuando se agrega una carga,los medidores a tensión incrementan su resistencia en 60mohmios, a 120,060ohmios y los mediores a compresión disminuyen su resistencia en 60mohmios,a 119.940 ohmios,como se muestra en la figura 7-82.¿Cuál es el voltaje de salida con carga?
 
+### SECCIÓN 7-7 Localización de fallas
+#### 49.¿Es correcta la lectura del voltímetro de la figura 7-84?
+![image](https://user-images.githubusercontent.com/93666408/146869772-fc2c6837-17f9-4cd4-93a7-f87033134343.png)
+
+#### 51.En la figura 7-86 hay una falla.Con base en la indicaciones del medidor,determine cuál es la falla.
+![image](https://user-images.githubusercontent.com/93666408/146869946-e031245f-4264-4505-b78e-e52bb1740fc6.png)
+
+#### 53.Revise las lectura de los medidores de la figura 7-88 y localice cualquier falla que pudiera existir.
+![image](https://user-images.githubusercontent.com/93666408/146870099-a41b3d89-add5-482b-bb5a-1f67132729ba.png)
+
+
 
 ## 4.VIDEO
 ## 5.CONCLUSIONES
