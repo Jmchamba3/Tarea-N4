@@ -45,6 +45,36 @@
 #### 8-8: CONVERSIONES DELTA A Y (Δ a Y) y Y A DELTA (Y a Δ)
 ![Conversiones](https://user-images.githubusercontent.com/93681159/146854758-eb9d8f9d-2e30-4c43-b46b-8a2a33eceba2.jpeg)
 ## 3.EJERCICIOS
+### Capítulo N°7: Circuitos en serie-paralelo
+#### 1.Visualice y trace las siguientes combinaciones en serie-paralelo:
+#### (a)R1 en serie con la combinación en paralelo de R2 y R3
+#### (a)R1 en paralelo con la combinación en serie de R2 y R3
+#### (c)R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores.
+#### 3.En cada circuito de la figura 7-62,identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
+![image](https://user-images.githubusercontent.com/93666408/146860409-98209413-6795-4dba-bfb0-d65a44dacef7.png)
+
+#### 5.Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
+![image](https://user-images.githubusercontent.com/93666408/146860290-b84bcb73-0cb2-4ffe-8bea-25e7d7dc48a4.png)
+#### 7.Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c).La bateria tiene que conectarse externa a la tarjeta.
+![image](https://user-images.githubusercontent.com/93666408/146860882-b077deb9-8fd6-4328-96fb-86fe4d235458.png)
+### SECCION 7-2 Análisis de circuitos resistivos en serie-paralelo
+#### 9.Para cada uno de los circuitos mostrados en la figura 7-62,determine la resistencia total presentada a la fuente.
+![image](https://user-images.githubusercontent.com/93666408/146861094-1cabb3e2-6e02-4404-9ec6-93446c539a88.png)
+#### 11.Determine la corriente a través de cada resistor de la figura 7-62;calcule cada caída de voltaje.
+#### 13.Encuentre RT para todas las combinaciones de los interruptores de la figura 7-66.
+![image](https://user-images.githubusercontent.com/93666408/146861570-1ce5a439-a2e0-402d-82e2-95471fbde561.png)
+#### 15.Determine el voltaje en cada nodo con respecto a tierra en la figura 7-67.
+![image](https://user-images.githubusercontent.com/93666408/146861898-9d18b366-5c58-4e93-9f98-a0f7984e2fbf.png)
+#### 17.En la figura 7-68,¿cómo determinaría el voltaje entre los extremos de R2 por medición sin conectar directamente un medidor entre los extremos del resistor?
+![image](https://user-images.githubusercontent.com/93666408/146862366-c5be6d3a-b0f5-44e3-857d-deb4923a8a3e.png)
+#### 19.Determine la resistencia del circuito mostrada en la figura 7-68 como se ve desde la fuente de voltaje.
+#### 21.(a)Determine el valor de R2 en la figura 7-70.(b)Encuentre la potencia en R2
+![image](https://user-images.githubusercontent.com/93666408/146862861-5c2ee842-0aa8-4351-a852-70dde4947715.png)
+#### 23.Encuentre la resistencia entre cada uno de los siguientes juegos de nodos mostrados en la figura 7-72: AB,BC y CD.
+![image](https://user-images.githubusercontent.com/93666408/146863219-fe5d07cc-cf8b-41b0-b8a6-fddc4025a10d.png)
+### SECCIÓN 7-3 Divisores de voltaje con cargas resistivas.
+#### 25.Un divisor de voltaje está compuesto por dos resistores de 56 kÆ y una fuente de 15 V. Calcule el voltaje de salida sin carga. ¿Cuál será el voltaje de salida si se conecta un resistor con carga de 1.0 MÆ a la salida?
+
 ## 4.VIDEO
 ## 5.CONCLUSIONES
 ## 6.BIBLIOGRAFÍA
