@@ -198,23 +198,31 @@ La tarjeta se observa en el siguiente gráfico:
 #### 11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; delo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kΩ, ¿cuál es el intervalo del voltaje de referencia?
 ![11](https://user-images.githubusercontent.com/93893919/148018664-de3c76fc-2d2d-4a73-b000-a9147efbb150.png)
 #### 13. Determine el voltaje del punto A al punto B en la figura 8-73.
+![13 1](https://user-images.githubusercontent.com/93893919/148020395-b81069e9-8f54-4f2c-870e-17ad1d252e49.png)
 ![13](https://user-images.githubusercontent.com/93893919/148018699-02b53218-bc5d-4a0b-9c07-ded96db7ce2e.png)
 #### 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
+![15 1](https://user-images.githubusercontent.com/93893919/148020422-39cbfa12-6afa-448a-b07e-430b71a323ea.png)
 #### 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
 ![17](https://user-images.githubusercontent.com/93893919/148018761-caea7036-2c99-4bf9-816a-518e829cc8bb.png)
 #### 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
+![19 1](https://user-images.githubusercontent.com/93893919/148020438-b585fbcf-0782-4f34-8841-2ce5614d4da9.png)
 ![19](https://user-images.githubusercontent.com/93893919/148018774-efcfb891-a5b4-4615-9606-bc6e830a843b.png)
 #### 21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
+![21 1](https://user-images.githubusercontent.com/93893919/148020453-71222f6f-0f77-41fa-9089-bc37b8fc472f.png)
 ![21](https://user-images.githubusercontent.com/93893919/148019522-e9e7593b-919f-4809-bd48-8ff5ac559636.png)
 #### 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton v por RL.
+![23 1](https://user-images.githubusercontent.com/93893919/148020712-ec0c9e4b-d1f2-4f2d-8f66-5cc2e5242a74.png)
 ![23](https://user-images.githubusercontent.com/93893919/148019412-12047938-a69b-4ec8-a097-ecf031b21631.png)
 #### 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
 #### 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
 #### 29. Aplique el teorema de Norton al circuito de la figura 8-84.
+![29 1](https://user-images.githubusercontent.com/93893919/148020767-5e1c7231-3725-42c8-a31c-24be770907cf.png)
 #### 31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
+![31 1](https://user-images.githubusercontent.com/93893919/148020777-1ad5711a-efcc-4011-b4bc-30f054d75e81.png)
 #### 33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
+![33 1](https://user-images.githubusercontent.com/93893919/148020795-056cf76d-5a34-4625-834d-d2eb9694bec2.png)
 #### 35. En la figura 8-89, convierta cada red Y en una red delta.
-
+![35 1](https://user-images.githubusercontent.com/93893919/148020807-6f55dd0a-bdef-4c98-a214-a1fb66db75b0.png)
 
 ## 4.VIDEO
 ## 5.CONCLUSIONES
