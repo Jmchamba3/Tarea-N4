@@ -51,7 +51,7 @@
 #### (a)R1 en paralelo con la combinación en serie de R2 y R3
 #### (c)R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores.
 * Las combinaciones se observan en la siguiente imagen.
-* ![Ej_1](https://user-images.githubusercontent.com/93666408/147986562-a5e335c2-31b5-46f1-8f84-24d64668fe89.PNG)
+ ![Ej_1](https://user-images.githubusercontent.com/93666408/147986562-a5e335c2-31b5-46f1-8f84-24d64668fe89.PNG)
 
 #### 3.En cada circuito de la figura 7-62,identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
 ![image](https://user-images.githubusercontent.com/93666408/146860409-98209413-6795-4dba-bfb0-d65a44dacef7.png)
@@ -62,7 +62,7 @@
 #### 5.Trace el diagrama esquemático de la configuración de la tarjeta de circuito impreso mostrada en la figura 7-64 indicando valores de resistor, e identifique las relaciones en serie-paralelo.
 ![image](https://user-images.githubusercontent.com/93666408/146860290-b84bcb73-0cb2-4ffe-8bea-25e7d7dc48a4.png)
 * El diagrama esquemático es el siguiente:
-* ![image](https://user-images.githubusercontent.com/93666408/147987527-2a33a611-c8c7-484d-9d41-22daef1dd330.png)
+ ![image](https://user-images.githubusercontent.com/93666408/147987527-2a33a611-c8c7-484d-9d41-22daef1dd330.png)
 
 #### 7.Configure una tarjeta de circuito impreso para el circuito de la figura 7-63(c).La bateria tiene que conectarse externa a la tarjeta.
 ![image](https://user-images.githubusercontent.com/93666408/146860882-b077deb9-8fd6-4328-96fb-86fe4d235458.png)
