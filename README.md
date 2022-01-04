@@ -25,6 +25,7 @@
 #### 7-6: EL PUENTE WHEATSTONE
 ![Puente-wheatstone](https://user-images.githubusercontent.com/93681159/146269463-e0c10f0b-9c56-4549-b0cf-f65a5ccfe207.jpeg)
 #### 7-7: LOCALIZACIÓN DE FALLAS
+![Mapa conceptual](https://user-images.githubusercontent.com/93681159/148064058-b0e69e1c-d56a-4278-b628-32355ddd4855.jpeg)
 ### Capítulo N°8: TEOREMAS DE CIRCUITOS Y CONVERSIONES
 #### 8-1: LA FUENTE DE VOLTAJE DE CD
 ![Fuente-cd](https://user-images.githubusercontent.com/93681159/146622429-22649cff-b523-4841-837b-ecc30dda29af.jpeg)
