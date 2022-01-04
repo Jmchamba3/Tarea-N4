@@ -207,7 +207,7 @@ La tarjeta se observa en el siguiente gráfico:
 #### 21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
 ![19](https://user-images.githubusercontent.com/93893919/148018800-ae9ff7cb-3987-4456-bdd6-ca6c4afe62af.png)
 #### 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton v por RL.
-![21](https://user-images.githubusercontent.com/93893919/148018823-dd85dc8f-3bdf-48f4-9b3d-3f39fc193277.png)
+
 #### 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
 #### 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
 #### 29. Aplique el teorema de Norton al circuito de la figura 8-84.
