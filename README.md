@@ -217,7 +217,9 @@ La tarjeta se observa en el siguiente gráfico:
 ![23 1](https://user-images.githubusercontent.com/93893919/148020712-ec0c9e4b-d1f2-4f2d-8f66-5cc2e5242a74.png)
 ![23](https://user-images.githubusercontent.com/93893919/148019412-12047938-a69b-4ec8-a097-ecf031b21631.png)
 #### 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
+![25](https://user-images.githubusercontent.com/93893919/148024652-2fbaa235-fa3a-4fe0-9637-e2a06e54895e.png)
 #### 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
+![27](https://user-images.githubusercontent.com/93893919/148024678-5d186cf1-658b-4cb7-8c34-28d37461375d.png)
 #### 29. Aplique el teorema de Norton al circuito de la figura 8-84.
 ![29 1](https://user-images.githubusercontent.com/93893919/148020767-5e1c7231-3725-42c8-a31c-24be770907cf.png)
 #### 31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
