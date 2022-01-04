@@ -201,13 +201,13 @@ La tarjeta se observa en el siguiente gráfico:
 ![13](https://user-images.githubusercontent.com/93893919/148018699-02b53218-bc5d-4a0b-9c07-ded96db7ce2e.png)
 #### 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
 #### 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
-![15](https://user-images.githubusercontent.com/93893919/148018761-caea7036-2c99-4bf9-816a-518e829cc8bb.png)
+![17](https://user-images.githubusercontent.com/93893919/148018761-caea7036-2c99-4bf9-816a-518e829cc8bb.png)
 #### 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
-![17](https://user-images.githubusercontent.com/93893919/148018774-efcfb891-a5b4-4615-9606-bc6e830a843b.png)
+![19](https://user-images.githubusercontent.com/93893919/148018774-efcfb891-a5b4-4615-9606-bc6e830a843b.png)
 #### 21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
-![21](https://user-images.githubusercontent.com/93893919/148019412-12047938-a69b-4ec8-a097-ecf031b21631.png)
+![21](https://user-images.githubusercontent.com/93893919/148019522-e9e7593b-919f-4809-bd48-8ff5ac559636.png)
 #### 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton v por RL.
-
+![23](https://user-images.githubusercontent.com/93893919/148019412-12047938-a69b-4ec8-a097-ecf031b21631.png)
 #### 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
 #### 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
 #### 29. Aplique el teorema de Norton al circuito de la figura 8-84.
