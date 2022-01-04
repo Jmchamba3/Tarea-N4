@@ -205,7 +205,7 @@ La tarjeta se observa en el siguiente gráfico:
 #### 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
 ![17](https://user-images.githubusercontent.com/93893919/148018774-efcfb891-a5b4-4615-9606-bc6e830a843b.png)
 #### 21. Determine la corriente a través del resistor de carga en el circuito puente de la figura 8-81.
-![19](https://user-images.githubusercontent.com/93893919/148018800-ae9ff7cb-3987-4456-bdd6-ca6c4afe62af.png)
+![21](https://user-images.githubusercontent.com/93893919/148019412-12047938-a69b-4ec8-a097-ecf031b21631.png)
 #### 23. Para cada uno de los circuitos mostrados en la figura 8-76, determine el equivalente Norton v por RL.
 
 #### 25. Con el teorema de Norton, determine el voltaje entre los extremos de R5 en la figura 8-78.
