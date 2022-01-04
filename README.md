@@ -195,8 +195,7 @@ La tarjeta se observa en el siguiente gráfico:
 ![7](https://user-images.githubusercontent.com/93893919/148018622-b4b6dea4-54ba-451c-844e-640fdf6c2ebf.png)
 #### 9. Con el teorema de superposición, determine la corriente a través de R3 en la figura 8-70.
 ![9](https://user-images.githubusercontent.com/93893919/148018623-f94f593b-9645-48d2-bc3d-9ec8abd3b305.png)
-#### 11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; delo contrario es positiva. El comparador no !
-carga a una u otra entrada. Si R2 es de 1.0 kΩ, ¿cuál es el intervalo del voltaje de referencia?
+#### 11. En la figura 8-72 se muestra un circuito comparador. El voltaje de entrada, VENTRADA, se compara con el voltaje de referencia, VREFERENCIA, y se genera una salida negativa si VREFERENCIA > VENTRADA; delo contrario es positiva. El comparador no carga a una u otra entrada. Si R2 es de 1.0 kΩ, ¿cuál es el intervalo del voltaje de referencia?
 ![11](https://user-images.githubusercontent.com/93893919/148018664-de3c76fc-2d2d-4a73-b000-a9147efbb150.png)
 #### 13. Determine el voltaje del punto A al punto B en la figura 8-73.
 ![13](https://user-images.githubusercontent.com/93893919/148018699-02b53218-bc5d-4a0b-9c07-ded96db7ce2e.png)
