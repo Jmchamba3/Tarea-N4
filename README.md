@@ -205,6 +205,7 @@ La tarjeta se observa en el siguiente gráfico:
 ![15](https://user-images.githubusercontent.com/93893919/148023683-39b9ac08-dc3a-457d-b4ee-a6deda6e8858.png)
 ![15 2](https://user-images.githubusercontent.com/93893919/148023693-ecc1f95b-feb5-4361-8ab6-fdbe3408ebcc.png)
 #### 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
+![17 1](https://user-images.githubusercontent.com/93893919/148023838-c113f85d-ccc9-41a6-af55-9cca39bc643f.png)
 ![17](https://user-images.githubusercontent.com/93893919/148018761-caea7036-2c99-4bf9-816a-518e829cc8bb.png)
 #### 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
 ![19 1](https://user-images.githubusercontent.com/93893919/148020438-b585fbcf-0782-4f34-8841-2ce5614d4da9.png)
