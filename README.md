@@ -202,6 +202,8 @@ La tarjeta se observa en el siguiente gráfico:
 ![13](https://user-images.githubusercontent.com/93893919/148018699-02b53218-bc5d-4a0b-9c07-ded96db7ce2e.png)
 #### 15. La figura 8-75 muestra dos redes en escalera. Determine la corriente producida por cada una de las baterías cuando se conectan las terminales A (A a A) y las terminales B (B a B).
 ![15 1](https://user-images.githubusercontent.com/93893919/148020422-39cbfa12-6afa-448a-b07e-430b71a323ea.png)
+![15](https://user-images.githubusercontent.com/93893919/148023683-39b9ac08-dc3a-457d-b4ee-a6deda6e8858.png)
+![15 2](https://user-images.githubusercontent.com/93893919/148023693-ecc1f95b-feb5-4361-8ab6-fdbe3408ebcc.png)
 #### 17. Con el teorema de Thevenin, determine la corriente a través de la carga RL en la figura 8-77.
 ![17](https://user-images.githubusercontent.com/93893919/148018761-caea7036-2c99-4bf9-816a-518e829cc8bb.png)
 #### 19. Determine el equivalente de Thevenin para el circuito externo al amplificador de la figura 8-79.
