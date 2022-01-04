@@ -220,13 +220,17 @@ La tarjeta se observa en el siguiente gráfico:
 ![25](https://user-images.githubusercontent.com/93893919/148024652-2fbaa235-fa3a-4fe0-9637-e2a06e54895e.png)
 #### 27. Determine el circuito equivalente Norton para el puente que aparece en la figura 8-81 sin RL.
 ![27](https://user-images.githubusercontent.com/93893919/148024678-5d186cf1-658b-4cb7-8c34-28d37461375d.png)
+![27 1](https://user-images.githubusercontent.com/93893919/148027146-41e24d06-8c83-4773-99eb-35a244437005.png)
 #### 29. Aplique el teorema de Norton al circuito de la figura 8-84.
 ![29 1](https://user-images.githubusercontent.com/93893919/148020767-5e1c7231-3725-42c8-a31c-24be770907cf.png)
+![29](https://user-images.githubusercontent.com/93893919/148027157-c1e4246b-3d62-42d4-a1a8-df15efaa8717.png)
 #### 31. En el circuito de la figura 8-86, determine el valor de RL para transferencia de potencia máxima.
 ![31 1](https://user-images.githubusercontent.com/93893919/148020777-1ad5711a-efcc-4011-b4bc-30f054d75e81.png)
+![31](https://user-images.githubusercontent.com/93893919/148027175-e30fe046-9220-4562-acee-3609607cd506.png)
 #### 33. ¿Cuáles son los valores de R4 y RTH cuando la potencia máxima se transfiere de la fuente thevenizada a la red en configuración de escalera de la figura 8-87?
 ![33 1](https://user-images.githubusercontent.com/93893919/148020795-056cf76d-5a34-4625-834d-d2eb9694bec2.png)
-#### 35. En la figura 8-89, convierta cada red Y en una red delta.
+#![33](https://user-images.githubusercontent.com/93893919/148027197-b644fa0b-4a66-43e7-b3f7-eb600e773657.png)
+### 35. En la figura 8-89, convierta cada red Y en una red delta.
 ![35 1](https://user-images.githubusercontent.com/93893919/148020807-6f55dd0a-bdef-4c98-a214-a1fb66db75b0.png)
 
 ## 4.VIDEO
