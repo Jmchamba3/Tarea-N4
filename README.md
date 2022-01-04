@@ -50,7 +50,7 @@
 #### (a)R1 en serie con la combinación en paralelo de R2 y R3
 #### (a)R1 en paralelo con la combinación en serie de R2 y R3
 #### (c)R1 en paralelo con una rama que contiene R2 en serie con una combinación en paralelo de otros cuatro resistores.
-* Las ccombinaciones se observan en la siguiente imagen.
+* Las combinaciones se observan en la siguiente imagen.
 * ![Ej_1](https://user-images.githubusercontent.com/93666408/147986562-a5e335c2-31b5-46f1-8f84-24d64668fe89.PNG)
 
 #### 3.En cada circuito de la figura 7-62,identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
