@@ -232,7 +232,7 @@ La tarjeta se observa en el siguiente gráfico:
 #![33](https://user-images.githubusercontent.com/93893919/148027197-b644fa0b-4a66-43e7-b3f7-eb600e773657.png)
 ### 35. En la figura 8-89, convierta cada red Y en una red delta.
 ![35 1](https://user-images.githubusercontent.com/93893919/148020807-6f55dd0a-bdef-4c98-a214-a1fb66db75b0.png)
-
+![35](https://user-images.githubusercontent.com/93893919/148028438-56c1d904-180e-456a-8400-3e191fcb5187.png)
 ## 4.VIDEO
 ## 5.CONCLUSIONES
 ## 6.BIBLIOGRAFÍA
