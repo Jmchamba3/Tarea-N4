@@ -2,10 +2,12 @@
 ## 1.OBJETIVOS
    
    1.1  General
-   
+   * Analizar la teoría y ejercicios expuestos en los capítulos 7 y 8, que se van a desarrollar en el presente informe a su vez aplicar nuevos métodos de resolución en circuitos que poseen más de una fuente de voltaje.
 
-   
    1.2 Especificos
+   * Determinar la corriente a través de cualquier rama o componente de un circuito serie-paralelo.
+   * Resolver de manera correcta un circuito que se encuentra en serie-paralelo.
+   * Calcular los efectos de carga de un voltímetro o un amperímetro cuando se usan para medir el voltaje o la corriente en algún circuito.
            
 ## 2.MARCO TEÓRICO (RESUMEN)
 ### Capítulo N°7: Circuitos en serie-paralelo
